@@ -1,3 +1,6 @@
 # Hushlet Support
 
-Support page for the Hushlet iOS app, served at https://kbrady1.github.io/hushlet-support/
+Support and privacy pages for the Hushlet iOS app.
+
+- Support: https://kbrady1.github.io/hushlet-support/
+- Privacy Policy: https://kbrady1.github.io/hushlet-support/privacy.html
